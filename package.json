@@ -1,0 +1,23 @@
+{
+  "name": "habits-planner-app_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/html/main_page.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazimKhak/Habits-planner-app_.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazimKhak/Habits-planner-app_/issues"
+  },
+  "homepage": "https://github.com/NazimKhak/Habits-planner-app_#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3"
+  }
+}
